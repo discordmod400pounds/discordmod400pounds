@@ -1,9 +1,5 @@
-### Hi there 👋
+Hi! ![image](https://user-images.githubusercontent.com/126921632/223014935-259d8ced-b8d9-40e5-8ece-efbd09979a90.png)
 
-<!--
-**discordmod400pounds/discordmod400pounds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on making stuff until I cant think of anything else to make.
 - 🌱 I’m currently learning Python!
